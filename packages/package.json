@@ -1,0 +1,14 @@
+{
+  "name": "polyglotbot_v.2",
+  "version": "1.0.0",
+  "description": "VRLX official bot // version 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VRLX org",
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2"
+  }
+}
